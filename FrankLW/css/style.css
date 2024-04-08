@@ -745,7 +745,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   -moz-appearance: none;
   appearance: none;
   border-radius: 4px;
-  border: 2px solid rgba(0, 0, 0, 0.1);
+  border: 2px solid #FFCE55(0, 0, 0, 0.1);
   background: none;
   color: #000000;
   -webkit-transition: .3s all ease-out;
@@ -1022,7 +1022,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-secondary-color {
-  color: #ddf0f3 !important;
+  color: #FFCE55 !important;
 }
 
 @media screen and (max-width: 768px) {
